@@ -2,8 +2,8 @@
 
 ## Team Members
 - Shivam Pandey
-- Aniket Banginwar
 - Michael Yang
+- Aniket Banginwar
 
 ## Supervisor
 - Prof. Hamed Pirsiavash (Department of Computer Science, UC Davis)
